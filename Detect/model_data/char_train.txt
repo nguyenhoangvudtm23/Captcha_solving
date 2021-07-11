@@ -1,0 +1,499 @@
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data1.png 171,21,185,40,0 187,13,205,40,1 203,15,219,40,2 221,15,247,40,3 248,15,270,39,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data10.png 168,15,184,56,5 185,15,212,48,6 212,23,242,49,7 245,15,273,48,8 278,15,303,48,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data100.png 171,14,200,46,10 196,14,211,55,5 213,15,243,46,10 242,15,267,46,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data101.png 171,14,201,46,12 201,12,219,47,1 216,24,246,46,13 246,24,264,47,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data102.png 168,16,185,62,5 187,15,216,53,15 212,15,229,63,5 231,15,258,52,9 262,15,284,53,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data103.png 167,11,182,56,5 185,14,203,47,16 206,23,226,46,17 225,14,244,47,16 247,14,267,47,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data104.png 174,16,202,53,19 203,15,226,53,20 228,16,252,52,21 253,17,276,52,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data105.png 173,17,201,53,10 203,16,230,52,21 230,17,253,53,22 256,26,278,52,17
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data106.png 172,24,191,46,14 190,12,211,45,23 211,12,234,46,24 233,14,261,45,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data107.png 173,14,192,47,26 193,23,224,47,13 224,14,239,46,27 241,14,272,46,12 271,13,293,46,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data108.png 171,12,185,46,28 185,23,200,46,0 200,14,227,46,6 226,12,247,46,29 245,14,272,46,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data109.png 172,23,189,47,0 191,14,207,46,27 210,14,230,46,31 233,14,247,47,27 250,23,271,46,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data11.png 174,15,195,48,32 195,15,221,48,33 226,15,247,49,32 246,15,273,49,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data110.png 172,25,193,53,0 193,16,221,54,30 223,16,247,53,22 249,26,271,53,34 270,16,310,53,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data111.png 172,23,194,56,35 195,13,210,46,27 212,14,239,46,30 240,12,259,45,36 258,13,291,46,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data112.png 172,14,196,53,24 198,26,220,53,14 224,16,253,53,12 256,16,284,54,3 282,25,306,53,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data113.png 171,24,192,46,39 193,24,214,45,40 215,23,234,46,17 234,24,255,55,41 256,14,276,47,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data114.png 171,23,193,55,41 193,24,214,55,41 213,24,235,45,38 235,23,250,47,0 251,13,269,47,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data115.png 171,16,204,54,8 207,26,228,53,43 229,17,261,53,44 262,16,289,53,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data116.png 172,14,204,55,45 202,12,212,59,5 213,12,225,46,27 225,23,247,55,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data117.png 175,15,197,53,11 201,16,227,53,46 231,17,256,53,46 260,26,282,53,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data118.png 172,14,203,45,21 200,23,222,45,38 220,14,236,46,47 235,23,253,45,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data119.png 171,17,199,53,21 197,17,223,53,6 224,16,250,52,37 254,27,277,53,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data12.png 169,10,183,42,49 183,22,213,43,13 211,13,241,42,12 240,13,270,42,3 269,13,288,42,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data120.png 173,16,183,53,28 184,25,204,52,34 205,25,227,62,50 228,25,249,53,48 251,15,280,53,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data121.png 172,25,194,53,34 194,26,216,53,14 219,15,243,53,18 248,16,268,54,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data122.png 172,26,194,53,34 194,17,221,53,25 224,16,249,52,46 252,25,272,53,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data123.png 170,14,202,47,19 203,14,221,47,51 223,12,242,46,29 242,13,263,46,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data124.png 173,23,194,56,53 192,23,214,54,50 212,14,236,46,20 237,23,258,55,53 256,24,275,46,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data125.png 172,17,201,52,25 204,16,231,53,12 233,26,256,62,35 262,25,280,53,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data126.png 172,15,192,46,26 193,12,210,46,1 208,14,228,47,18 226,23,248,56,41 249,24,280,46,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data127.png 171,14,194,47,20 193,24,217,45,38 215,15,242,47,46 243,25,262,48,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data128.png 176,17,195,53,27 201,17,229,53,55 230,26,254,52,38 256,27,289,52,13 290,13,313,53,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data129.png 174,16,201,53,46 202,16,234,62,45 235,16,273,53,7 278,17,305,53,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data13.png 170,14,199,48,15 201,15,227,48,9 230,23,253,48,14 252,15,281,48,6
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data130.png 170,14,203,46,37 200,14,220,46,31 220,14,253,48,55 252,13,282,47,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data131.png 172,16,200,53,33 203,16,231,53,12 232,24,253,54,0 254,26,286,52,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data132.png 175,14,195,52,23 202,16,231,52,56 234,16,260,52,6 262,16,289,52,19 290,26,314,63,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data133.png 170,12,183,46,49 185,24,205,47,48 205,14,224,47,18 223,14,250,47,44 253,14,291,46,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data134.png 171,14,194,46,20 194,24,216,55,53 216,14,236,46,26 235,15,261,46,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data135.png 172,14,196,45,30 197,24,216,46,48 215,12,237,45,36 236,13,259,46,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data136.png 170,17,185,46,57 181,12,195,55,5 191,12,208,55,5 209,24,231,46,38 229,15,253,46,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data137.png 175,16,198,53,2 201,17,227,53,37 229,17,256,52,6 257,16,279,53,51 284,16,312,52,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data138.png 172,14,191,46,22 194,15,212,47,26 215,14,232,46,58 233,24,255,55,50 255,23,275,46,17
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data139.png 172,25,196,53,59 197,17,225,52,9 227,17,267,54,7 267,27,292,53,59 292,14,311,53,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data140.png 171,24,193,47,59 193,13,213,46,26 213,24,233,47,34 231,14,261,46,21 259,14,292,46,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data141.png 169,14,200,45,12 197,13,212,55,5 213,24,234,46,38 235,15,254,46,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data142.png 172,26,195,62,35 197,15,225,53,21 224,19,240,53,57 243,16,266,54,2 268,26,291,53,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data143.png 173,16,203,53,60 208,16,233,53,10 240,17,260,53,32 260,17,287,53,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data144.png 172,15,191,46,22 192,25,213,45,38 214,24,243,46,13 242,13,263,47,24 264,24,283,46,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data145.png 172,24,191,46,17 194,23,214,55,53 214,23,233,46,43 231,14,262,46,3 260,13,290,46,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data146.png 171,24,192,46,48 190,14,209,47,16 210,24,233,46,38 230,14,256,47,32 257,14,288,47,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data147.png 172,17,199,52,33 202,16,233,53,60 237,25,252,52,54 255,25,277,62,50
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data148.png 174,16,202,53,3 203,17,233,62,45 235,27,255,52,48 259,17,282,54,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data149.png 171,15,194,47,4 195,24,210,47,0 210,14,234,47,20 236,24,254,46,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data15.png 172,23,191,46,48 191,14,210,45,58 211,24,231,46,48 231,24,246,46,0 246,14,276,47,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data150.png 175,14,189,45,27 192,25,213,54,41 214,12,231,45,1 229,14,248,47,22 249,24,270,55,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data151.png 171,24,192,45,38 192,23,209,47,54 208,24,239,46,61 239,14,267,46,46 267,15,288,46,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data152.png 172,16,200,52,44 203,17,239,53,7 245,16,265,53,32 266,17,290,53,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data153.png 167,12,182,54,5 185,24,206,54,53 204,14,236,46,55 235,12,245,45,49 247,24,263,46,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data154.png 174,25,211,53,61 214,16,237,52,20 239,16,264,53,46 269,17,292,53,2 294,16,333,53,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data155.png 172,24,191,46,14 191,24,212,46,59 211,14,232,46,22 233,14,249,45,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data156.png 174,26,195,53,39 200,26,220,52,34 222,16,230,52,28 232,16,262,53,8 265,16,272,52,28
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data157.png 172,14,193,45,9 194,24,225,46,13 225,23,242,47,14 244,24,259,46,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data158.png 172,24,190,45,34 191,15,210,46,2 211,14,233,47,4 234,14,264,47,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data159.png 171,15,212,45,7 213,16,231,46,58 233,15,270,46,56 270,14,287,46,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data16.png 172,23,193,46,59 194,25,208,46,0 211,24,230,46,38 232,24,260,45,13 259,25,274,46,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data160.png 172,13,192,46,36 194,11,203,46,49 206,15,225,46,26 226,14,246,47,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data161.png 171,13,192,46,23 193,24,209,46,0 210,24,230,45,40 231,24,250,46,17 251,15,270,46,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data162.png 172,15,191,46,16 192,15,213,46,58 214,15,231,46,16 234,24,255,54,41 256,15,276,47,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data163.png 172,14,211,46,7 211,24,241,46,13 240,14,260,46,52 261,17,275,47,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data164.png 173,16,212,53,7 216,17,241,53,10 246,16,269,52,58 273,17,298,52,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data165.png 172,14,192,46,22 192,25,213,45,39 212,12,234,46,36 234,14,271,46,56 271,13,301,47,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data166.png 171,19,189,52,57 191,17,212,53,32 214,17,242,53,12 245,15,267,52,36 272,16,292,53,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data167.png 175,17,197,53,4 199,27,219,53,43 220,16,248,53,6 248,26,268,54,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data168.png 173,26,196,53,59 198,16,238,53,7 239,26,262,52,38 265,16,288,53,52 293,14,316,53,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data169.png 171,23,193,55,50 194,14,213,47,51 213,12,235,46,24 235,14,255,46,51 255,15,285,46,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data17.png 171,14,211,46,7 212,24,231,47,17 233,24,252,55,35 254,12,272,46,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data170.png 173,16,182,53,28 184,16,210,53,30 214,17,244,53,56 249,16,275,53,37 279,17,305,53,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data171.png 175,16,196,53,4 200,16,221,53,20 223,17,246,52,22 249,16,276,53,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data172.png 175,17,196,52,32 196,17,222,53,33 224,26,247,52,38 249,26,272,62,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data173.png 173,16,203,54,8 206,18,233,53,30 236,16,258,54,16 260,19,279,53,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data174.png 171,17,201,53,44 203,15,225,53,36 228,17,256,54,44 257,26,282,52,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data175.png 175,16,201,53,3 204,17,230,53,19 231,17,257,53,6 259,17,287,53,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data176.png 176,17,197,53,2 202,16,223,53,4 226,16,248,52,58 251,17,275,53,31 280,26,296,53,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data177.png 173,25,195,52,14 198,26,219,52,43 223,16,246,53,16 251,13,272,52,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data178.png 175,17,204,53,56 208,17,246,52,7 249,17,276,52,15 279,17,302,53,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data179.png 172,17,199,53,9 202,26,225,52,14 226,16,242,52,47 247,26,282,53,61
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data18.png 172,23,187,46,0 189,14,207,46,16 209,24,240,46,13 239,24,260,55,35 260,12,270,46,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data180.png 174,16,199,52,46 202,27,224,52,43 228,14,250,53,24 253,17,281,53,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data181.png 175,16,200,52,3 200,17,218,53,42 221,16,243,53,16 246,15,265,53,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data182.png 173,27,192,53,48 196,26,218,53,14 221,26,241,53,48 243,17,259,52,47 263,17,290,53,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data183.png 173,17,199,53,9 200,16,228,52,6 227,27,250,53,59 253,16,283,52,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data184.png 172,14,191,46,26 193,25,213,46,17 213,16,225,45,57 225,24,246,46,48 245,14,264,46,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data185.png 171,17,199,53,6 198,14,220,53,29 225,27,244,53,0 246,17,270,53,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data186.png 174,16,199,53,10 206,16,227,53,4 230,15,252,53,23 254,17,285,53,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data187.png 173,26,195,62,53 200,17,227,53,10 230,26,254,63,50 258,17,283,53,46 286,17,312,53,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data188.png 170,16,198,52,21 198,17,229,62,45 231,16,262,62,45 267,15,288,53,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data189.png 175,18,200,52,55 207,16,236,53,56 240,26,260,53,0 262,16,283,53,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data19.png 172,14,199,47,25 200,24,218,46,17 219,15,239,45,31 241,24,257,46,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data190.png 176,14,189,46,27 192,23,214,46,40 213,13,238,46,6 239,14,268,46,8 268,14,288,46,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data191.png 173,14,191,46,58 192,24,215,47,38 214,14,242,46,8 243,24,264,45,38 265,14,285,47,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data192.png 171,14,190,45,52 192,23,212,45,59 215,13,243,46,60 241,24,265,55,50 263,11,276,46,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data193.png 172,24,192,46,17 192,24,214,46,39 214,23,232,46,14 234,15,252,46,51 253,24,269,46,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data194.png 171,13,212,46,7 214,24,233,55,53 233,14,254,45,18 254,14,284,46,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data195.png 172,14,201,55,45 201,24,217,47,0 217,14,246,47,12 247,24,266,46,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data196.png 171,14,196,46,32 196,24,217,46,39 217,14,241,46,32 242,13,264,47,29
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data197.png 175,16,200,53,55 206,16,232,53,3 234,27,253,53,34 254,17,280,53,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data198.png 174,26,195,53,40 201,15,228,53,55 232,16,262,53,60 264,17,280,54,47 285,16,309,53,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data199.png 171,16,200,54,15 204,15,232,54,12 233,25,256,62,53 256,16,272,63,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data2.png 170,13,196,42,6 197,13,215,41,51 219,12,243,41,25 245,13,274,41,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data20.png 173,14,192,47,58 192,24,214,55,53 212,14,239,46,46 240,23,259,46,39 261,14,291,46,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data200.png 170,23,193,55,50 192,15,213,46,52 213,24,234,55,41 235,24,255,46,40 257,14,272,45,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data201.png 171,17,185,46,57 185,15,205,47,31 205,23,235,46,13 235,23,255,54,53 254,15,285,45,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data202.png 174,14,195,53,29 198,17,228,53,15 228,16,255,53,21 256,16,278,53,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data203.png 172,15,200,52,33 201,16,229,53,33 230,14,247,53,1 246,16,270,52,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data204.png 173,14,196,47,48 196,12,209,46,49 210,15,227,46,42 225,14,256,46,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data205.png 173,16,197,53,52 200,26,221,53,43 224,17,240,53,47 245,17,268,52,20 264,17,280,62,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data206.png 172,14,191,47,22 193,13,204,46,28 206,14,225,47,2 227,14,245,47,31 246,14,266,46,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data207.png 172,26,205,52,13 207,17,235,52,44 237,17,264,53,10 267,16,291,53,52 294,27,316,53,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data208.png 173,14,193,46,9 195,14,214,46,26 214,14,245,46,55 245,24,265,54,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data209.png 174,15,203,52,12 205,16,232,52,3 231,20,249,53,57 252,16,274,53,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data21.png 172,26,196,53,38 199,16,225,52,55 230,15,253,53,36 254,19,272,53,57 274,17,303,53,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data210.png 171,14,202,47,55 201,14,221,46,31 221,14,262,46,7 260,24,283,46,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data211.png 174,16,198,53,11 199,24,221,53,43 226,25,247,53,40 253,25,275,53,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data212.png 173,16,200,52,10 206,17,231,53,19 234,16,258,52,18 262,16,283,53,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data213.png 174,18,196,53,52 200,26,224,53,14 225,16,249,53,52 251,26,271,52,0 272,16,312,52,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data214.png 183,25,205,52,43 174,14,182,52,49 209,16,236,53,10 238,16,255,53,47 260,25,283,63,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data215.png 172,14,188,53,1 188,25,209,53,34 209,12,232,53,36 237,15,258,53,32 258,16,282,53,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data216.png 173,17,196,52,51 202,16,228,53,3 229,26,251,53,43 255,17,277,53,20 278,13,296,53,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data217.png 172,24,193,55,35 194,24,225,46,61 225,14,266,46,7 265,14,286,46,52 286,13,308,46,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data218.png 172,25,196,53,59 196,16,226,53,15 228,25,250,63,41 255,17,281,54,10 287,16,314,54,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data219.png 174,26,191,53,54 191,15,219,53,33 221,26,253,53,13 252,16,280,53,33 282,26,304,53,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data22.png 171,24,192,46,39 192,24,213,55,41 214,24,235,55,35 233,14,264,46,10 264,15,283,47,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data220.png 173,24,192,54,35 193,13,210,47,16 214,13,233,46,18 237,15,251,46,27 253,14,281,47,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data221.png 173,26,195,61,35 201,14,222,53,36 229,16,255,53,46 256,25,276,53,34 278,16,305,53,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data222.png 171,23,205,46,61 201,12,215,54,5 215,23,239,55,50 238,13,269,46,55 269,14,299,46,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data223.png 171,14,195,47,20 194,14,215,47,22 216,15,237,46,9 237,14,259,47,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data224.png 173,16,200,53,9 202,16,231,52,8 236,15,264,53,3 264,16,289,52,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data225.png 174,25,196,63,41 200,16,227,53,30 231,17,257,54,3 259,27,280,53,43 284,14,308,53,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data226.png 175,14,196,53,24 198,13,221,53,36 224,17,250,52,30 254,13,277,53,29 281,17,304,53,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data227.png 171,23,194,54,53 193,12,202,56,5 204,14,241,46,56 241,14,273,45,55 272,14,310,46,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data228.png 173,14,202,45,60 201,14,221,46,31 221,14,236,46,47 235,24,255,45,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data229.png 171,15,189,46,42 189,14,209,45,18 208,14,232,47,20 232,23,253,47,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data23.png 170,14,200,46,3 200,13,218,45,1 216,14,239,45,6 236,13,252,46,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data230.png 175,15,189,45,27 192,14,212,46,52 213,24,229,47,54 226,14,258,47,37 258,14,275,46,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data231.png 168,12,182,56,5 183,24,205,55,50 206,14,223,47,42 221,23,242,45,40 242,14,272,47,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data232.png 171,17,187,46,57 186,14,205,46,58 204,25,225,46,38 226,14,252,47,25 254,14,273,46,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data233.png 173,24,192,45,17 193,14,213,45,22 214,15,232,46,52 235,14,260,45,11 260,12,269,46,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data234.png 174,16,182,52,28 185,17,209,53,46 211,17,240,53,44 243,16,268,53,55 271,17,297,53,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data235.png 172,17,198,53,31 200,17,232,62,45 233,17,265,63,45 269,16,294,53,55 296,17,325,52,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data236.png 171,14,200,46,19 202,14,220,46,2 222,23,241,46,48 239,14,265,46,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data237.png 171,17,198,53,6 200,17,222,53,11 225,26,246,53,43 250,26,270,53,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data238.png 173,14,196,54,29 202,17,226,53,37 233,17,257,52,46 262,16,283,53,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data239.png 173,14,201,46,60 202,25,221,45,17 222,23,242,45,40 243,14,270,46,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data24.png 172,15,191,45,52 196,14,209,46,27 212,14,242,46,12 243,24,262,47,14 261,14,278,47,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data240.png 175,16,203,53,12 207,17,234,53,19 234,26,257,53,59 259,15,282,52,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data241.png 172,12,190,46,1 188,13,207,46,22 207,25,228,47,38 228,24,248,55,41 248,14,271,46,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data242.png 172,16,204,61,45 207,27,228,53,43 229,17,258,53,33 259,17,285,53,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data243.png 173,14,195,53,29 199,15,216,53,47 220,17,242,53,27 246,25,284,53,61
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data244.png 171,12,192,46,23 192,24,214,45,38 214,13,233,46,1 229,25,247,47,34 247,12,258,47,28
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data245.png 172,24,190,47,34 191,23,211,46,59 212,23,244,46,61 245,13,265,46,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data246.png 170,14,192,46,31 193,24,224,45,61 225,13,247,45,24 247,13,268,46,24 267,14,297,46,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data247.png 172,24,191,46,48 191,25,211,46,17 212,23,227,47,0 228,24,260,47,61 263,24,282,55,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data248.png 171,15,194,46,32 196,14,214,47,16 219,14,238,45,51 238,23,259,46,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data249.png 172,14,190,46,16 193,24,212,45,48 212,25,229,46,43 229,15,261,46,12 259,14,282,46,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data25.png 171,13,201,46,55 201,23,222,55,35 222,23,253,46,61 253,12,275,46,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data250.png 171,15,202,47,44 203,15,220,46,58 221,14,251,46,37 251,24,266,46,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data251.png 174,15,182,52,28 183,15,210,54,9 211,17,228,53,42 229,17,259,52,15 261,15,282,53,29
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data252.png 174,16,200,52,46 204,15,230,53,55 233,17,248,52,47 252,16,277,52,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data253.png 172,12,192,46,29 193,14,213,46,18 215,14,242,46,8 243,23,262,46,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data254.png 174,14,196,54,24 200,17,222,53,11 225,17,249,53,16 252,16,267,52,47 270,26,292,53,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data255.png 174,16,198,52,18 199,17,225,52,6 226,17,252,53,19 253,17,270,53,42 274,16,297,53,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data256.png 174,16,196,53,26 197,17,228,53,15 231,17,257,53,3 260,17,281,54,32 281,17,311,54,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data257.png 173,14,191,47,51 192,13,213,46,23 213,25,235,55,50 235,13,272,46,7 273,14,300,47,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data258.png 173,16,197,53,22 199,17,216,53,42 220,24,240,53,40 245,26,267,52,34 267,17,283,51,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data259.png 172,16,203,54,8 209,16,235,53,3 236,26,257,53,43 262,17,288,53,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data26.png 171,14,193,46,4 190,13,205,55,5 208,13,217,47,28 219,14,249,47,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data260.png 175,16,204,53,56 208,17,234,52,30 239,17,265,53,37 268,26,301,54,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data261.png 172,15,196,53,29 200,15,216,53,47 219,26,242,63,35 245,16,276,53,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data262.png 172,26,193,53,48 196,16,223,52,33 224,26,250,53,59 251,15,274,53,20 273,15,301,54,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data263.png 171,15,203,47,33 201,25,217,46,0 217,16,229,46,57 229,14,249,45,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data264.png 173,26,195,53,17 199,14,221,52,36 225,15,251,53,46 256,16,281,54,10 285,17,308,53,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data265.png 171,24,192,46,59 192,14,215,46,24 214,24,234,45,40 235,24,250,45,0 249,14,273,46,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data266.png 174,14,182,52,49 183,17,211,52,25 213,15,241,53,25 243,26,260,53,54 260,16,284,53,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data267.png 169,17,185,62,5 189,16,210,52,4 213,16,236,53,51 239,15,262,54,29 268,16,295,53,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data268.png 173,13,195,53,29 202,17,227,53,55 232,16,260,54,8 265,26,287,61,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data269.png 174,15,196,54,24 199,16,222,53,20 224,16,246,53,52 251,16,277,52,19 280,26,303,63,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data27.png 171,15,202,46,12 202,25,232,46,61 235,12,255,47,29 255,15,275,47,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data270.png 172,14,184,46,47 180,13,195,55,5 197,24,217,45,48 216,24,236,47,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data271.png 173,13,199,46,25 200,13,210,46,49 213,15,231,47,18 234,15,253,47,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data272.png 172,14,201,45,21 203,15,221,46,26 221,14,251,46,37 252,15,270,46,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data273.png 173,12,184,46,28 186,14,206,45,22 205,24,225,55,50 224,15,248,45,20 249,15,278,45,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data274.png 172,24,192,46,40 194,25,214,47,40 213,13,235,46,36 234,13,258,46,4 256,23,279,47,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data275.png 172,14,192,48,22 193,14,213,47,52 214,24,230,47,0 229,15,253,45,4 254,15,272,46,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data276.png 171,15,197,47,32 198,12,216,45,1 212,12,233,47,29 232,15,254,46,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data277.png 174,17,197,53,16 201,15,223,53,36 229,15,251,53,2 253,19,270,53,57 272,16,297,52,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data278.png 171,15,193,45,20 194,23,216,55,53 215,14,240,46,32 240,17,253,47,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data279.png 173,14,192,46,58 193,24,224,46,61 226,23,247,47,40 247,13,265,46,42 265,24,282,46,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data28.png 176,16,195,52,27 201,16,225,53,11 228,16,249,52,16 253,16,278,53,51 283,17,303,53,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data280.png 171,14,202,46,55 200,24,221,46,38 222,14,252,47,60 252,13,262,47,28
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data281.png 172,14,202,46,60 201,13,219,46,16 222,14,248,46,46 248,15,279,47,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data282.png 172,13,192,46,18 193,24,213,47,48 211,13,233,46,29 232,24,253,46,40 254,13,268,46,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data283.png 170,14,202,47,12 203,14,221,47,58 222,14,252,55,45 252,14,272,47,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data284.png 172,12,190,47,1 187,24,216,46,13 215,14,239,47,20 237,14,278,47,7 278,14,297,47,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data285.png 173,14,191,46,51 193,13,204,46,49 205,14,234,45,37 234,12,254,46,36 254,23,274,46,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data286.png 171,24,192,45,40 193,23,214,56,35 217,14,231,45,27 233,14,250,47,44 250,14,277,47,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data287.png 173,17,196,52,52 202,17,222,52,32 221,27,244,52,43 249,16,272,52,11 274,26,297,52,17
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data288.png 173,17,201,53,25 203,17,230,53,10 235,17,259,53,46 263,26,284,53,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data289.png 171,14,200,46,21 197,13,212,54,5 213,13,242,47,3 242,12,261,47,29
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data29.png 172,12,184,45,49 184,12,202,46,1 200,13,216,45,1 215,15,244,46,37 243,14,263,46,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data290.png 172,14,197,46,6 197,13,208,45,49 211,14,235,46,30 235,24,256,55,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data291.png 173,15,197,53,18 202,17,226,53,46 229,16,253,53,16 255,16,282,53,21 283,16,304,52,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data292.png 173,16,202,53,8 208,15,234,52,19 235,26,258,52,14 260,26,292,52,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data293.png 172,17,199,53,44 204,16,233,52,56 239,27,273,53,61 277,27,297,52,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data294.png 170,24,192,46,39 192,24,213,45,40 212,14,241,45,37 242,14,268,46,11 268,14,297,46,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data295.png 175,16,200,53,46 203,17,241,52,7 243,27,265,61,35 270,26,294,63,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data296.png 171,15,200,46,33 201,12,212,47,49 213,23,235,45,59 236,23,255,56,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data297.png 171,14,198,47,3 198,24,219,45,40 219,14,240,46,31 237,13,250,55,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data298.png 171,13,195,47,24 197,15,210,46,27 213,14,243,46,33 245,14,263,47,26 264,12,274,45,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data299.png 172,15,192,45,26 193,12,213,45,24 213,24,233,56,41 235,13,256,46,9 256,15,271,46,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data3.png 172,23,193,47,34 195,16,220,48,46 223,24,244,56,53 249,23,270,48,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data30.png 173,26,196,53,14 198,16,225,52,25 228,14,250,53,29 254,25,275,53,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data300.png 172,14,190,46,58 193,24,208,45,0 210,23,227,47,34 229,15,247,45,58 249,24,267,47,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data301.png 90,7,102,27,36 105,9,119,27,3 120,8,132,27,18 134,8,147,28,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data302.png 91,8,101,27,27 104,8,124,28,7 126,13,137,32,53 139,8,153,28,15 155,9,167,28,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data303.png 90,13,102,27,39 105,8,118,27,10 121,8,135,27,12 137,8,150,27,52 151,8,165,28,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data304.png 88,7,99,24,42 98,5,109,24,24 109,7,115,23,47 116,12,132,24,61
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data305.png 91,8,104,27,37 105,8,115,27,42 116,8,131,27,25 131,8,143,28,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data306.png 89,6,105,29,45 105,12,113,24,0 113,7,123,25,2 123,7,139,24,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data307.png 89,12,100,29,41 101,7,111,24,51 111,8,127,24,44 127,7,139,24,46 140,12,150,24,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data308.png 91,8,101,27,4 103,9,118,27,60 121,9,132,27,4 133,13,145,28,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data309.png 89,7,96,24,47 97,11,107,24,59 107,7,117,24,51 118,7,129,24,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data31.png 171,24,192,55,41 193,25,214,54,53 212,14,242,45,37 243,24,264,46,40 264,15,293,45,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data310.png 91,9,102,27,32 102,8,123,27,7 124,8,136,27,52 137,13,149,27,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data311.png 90,6,96,23,49 96,12,113,24,61 114,7,123,24,58 124,6,139,24,19 139,12,149,24,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data312.png 90,7,98,24,42 98,7,108,24,58 109,7,119,24,16 119,12,130,24,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data313.png 89,12,100,29,41 100,11,112,24,59 111,13,121,29,41 122,6,128,24,49 129,7,138,23,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data314.png 91,8,104,27,3 104,8,113,27,42 115,13,126,27,43 128,8,140,27,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data315.png 89,7,104,24,10 104,12,113,23,0 113,7,126,24,6 126,7,141,24,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data316.png 88,8,96,32,5 97,7,112,28,33 113,8,125,27,52 127,8,143,27,60 145,8,160,28,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data317.png 90,7,99,24,22 100,12,111,24,40 111,7,121,24,58 123,7,132,24,51 133,7,143,24,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data318.png 90,12,100,28,53 100,6,110,24,1 108,11,118,29,41 119,7,128,23,16 130,8,150,24,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data319.png 90,13,100,28,34 101,13,112,27,34 113,8,124,27,2 126,8,141,27,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data32.png 171,15,198,45,46 200,15,217,46,2 220,23,239,46,14 240,24,259,45,17
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data320.png 90,12,99,27,54 100,8,114,27,55 115,13,128,27,14 129,8,141,28,22 143,8,158,28,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data321.png 89,8,103,28,31 105,8,119,28,3 120,8,131,28,16 134,9,148,27,55 149,8,162,27,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data322.png 89,12,102,28,59 104,8,115,28,20 116,9,131,27,3 131,13,143,27,17 144,8,158,27,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data323.png 88,8,96,32,5 99,8,114,27,56 116,7,128,27,23 130,13,141,32,50 142,6,152,28,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data324.png 89,12,101,29,50 102,7,110,24,27 111,7,126,24,8 126,12,138,23,38 137,7,146,25,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data325.png 90,8,102,27,52 104,13,115,27,43 116,8,132,27,44 133,8,144,27,4 145,13,157,32,50
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data326.png 90,7,99,24,2 101,7,110,25,22 111,7,120,25,16 122,7,135,24,30 135,12,145,24,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data327.png 90,8,105,28,10 107,8,119,27,20 120,8,132,27,51 135,7,148,28,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data328.png 90,7,97,23,47 96,11,104,23,54 104,7,118,24,21 118,7,125,23,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data329.png 90,13,102,27,39 105,8,119,27,12 120,9,128,27,47 129,7,138,28,1 139,8,150,27,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data33.png 170,16,197,53,31 200,27,219,52,34 221,27,242,52,34 243,16,266,52,52 270,15,292,53,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data330.png 89,8,99,27,42 99,8,113,27,6 114,8,127,27,37 129,8,141,27,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data331.png 89,7,108,24,56 109,7,119,24,52 121,7,134,24,8 133,6,141,29,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data332.png 90,8,106,31,45 108,7,119,27,36 121,8,136,27,44 137,8,149,28,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data333.png 90,12,100,27,48 101,8,115,27,9 117,7,121,28,49 123,7,135,27,36 136,8,156,27,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data334.png 90,13,100,27,0 101,8,117,32,45 119,8,130,28,51 133,8,145,26,51 146,13,163,27,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data335.png 89,12,104,24,13 104,12,114,24,48 114,7,125,24,52 126,8,136,24,9 137,12,147,24,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data336.png 89,7,104,24,8 103,6,110,29,5 111,7,121,24,22 123,11,132,24,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data337.png 91,7,102,28,23 104,8,118,28,10 121,8,134,27,37 137,8,152,28,12 152,8,166,28,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data338.png 90,7,99,24,58 100,7,110,24,24 112,6,122,24,9 123,12,134,24,59 134,7,149,28,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data339.png 91,8,106,27,56 108,8,124,27,60 128,9,136,27,27 140,13,152,27,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data34.png 173,25,195,62,50 198,26,220,53,14 219,17,235,63,5 237,17,262,52,31 266,16,295,61,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data340.png 90,9,102,27,51 105,8,120,28,56 124,8,136,27,55 138,8,151,27,31 153,9,166,26,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data341.png 90,8,104,28,33 105,13,116,27,34 116,8,132,27,56 135,13,145,27,17
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data342.png 90,8,106,32,45 107,8,121,27,30 121,8,129,32,5 131,8,142,27,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data343.png 90,12,100,28,53 101,13,111,28,53 111,12,121,23,17 123,7,132,23,2 133,8,145,24,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data344.png 90,7,98,23,16 101,7,110,24,26 111,6,124,24,11 125,7,140,24,12 139,8,152,24,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data345.png 90,8,102,28,58 104,9,118,27,30 119,8,131,27,58 132,8,147,28,33 148,13,159,27,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data346.png 90,8,102,27,26 104,8,125,28,7 125,8,140,27,15 141,8,154,28,31 154,8,163,27,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data347.png 89,7,99,24,36 101,12,109,24,0 108,7,120,24,4 121,7,136,29,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data348.png 89,7,105,24,37 105,12,115,28,53 116,7,131,24,15 130,12,140,24,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data349.png 90,14,101,27,34 101,8,115,27,10 117,8,130,27,31 129,8,145,28,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data35.png 172,26,197,62,50 198,16,227,53,25 227,26,250,54,17 250,14,268,52,1 266,16,281,53,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data350.png 90,11,101,29,35 100,7,110,24,16 111,12,122,28,50 122,12,129,24,54 129,7,143,24,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data351.png 89,7,104,23,3 106,7,112,24,27 114,7,127,24,11 129,7,136,24,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data352.png 89,9,105,27,15 105,9,119,27,30 121,8,132,27,58 135,9,147,27,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data353.png 89,12,100,23,39 100,12,111,28,53 111,7,125,24,25 125,7,136,24,18 136,7,150,24,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data354.png 89,12,100,24,40 100,12,111,23,40 111,11,121,24,43 122,6,131,24,29 132,12,141,24,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data355.png 90,13,102,32,53 104,8,121,28,56 121,8,136,27,6 135,13,148,28,59 149,8,162,28,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data356.png 90,7,106,27,8 107,14,118,27,34 117,8,131,28,21 131,7,143,27,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data357.png 89,6,98,24,1 98,12,105,24,0 107,6,116,23,29 117,8,131,23,3 132,8,140,24,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data358.png 90,7,99,24,2 100,7,111,24,51 111,6,116,24,28 116,7,131,24,46 132,12,142,24,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data359.png 89,12,106,24,61 108,7,117,24,26 118,7,134,28,45 133,7,143,23,18 143,8,159,24,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data36.png 171,17,197,52,51 202,16,223,53,32 223,16,255,62,45 255,17,281,52,31 283,16,316,53,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data360.png 90,8,103,27,46 106,8,121,27,8 121,8,137,27,15 138,13,149,31,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data361.png 90,7,102,28,36 104,8,125,28,7 125,13,137,28,43 139,13,150,28,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data362.png 90,13,102,32,53 104,8,118,27,46 119,8,131,28,22 133,8,148,28,33 146,8,154,33,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data363.png 90,6,99,24,2 100,12,111,28,53 111,6,122,24,23 122,7,135,24,6 136,8,150,24,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data364.png 89,7,105,25,15 105,7,115,24,18 115,12,132,24,61 132,7,146,24,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data365.png 90,7,104,24,55 105,7,114,24,16 115,7,125,24,16 125,7,140,24,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data366.png 89,7,105,24,44 107,7,113,24,27 115,7,131,29,45 131,12,141,24,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data367.png 89,12,105,24,13 105,13,115,29,50 116,12,126,29,35 126,7,137,24,31 138,11,145,25,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data368.png 89,12,99,29,41 101,12,116,24,13 115,7,126,24,31 127,6,136,25,36 136,7,143,24,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data369.png 89,7,101,24,32 103,12,119,24,61 120,12,131,28,53 130,7,142,23,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data37.png 172,24,193,56,35 193,24,215,56,35 212,15,251,46,56 251,24,273,55,35 272,13,297,45,6
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data370.png 89,6,100,24,24 100,7,110,24,52 111,12,122,23,38 122,7,132,25,22 133,7,148,24,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data371.png 90,13,102,27,17 103,7,115,27,36 117,13,129,32,41 131,9,145,27,10 147,8,160,27,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data372.png 89,7,105,25,12 104,12,113,24,54 113,12,123,24,39 122,7,136,23,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data373.png 90,13,102,32,41 105,8,119,27,12 120,13,132,27,14 133,13,144,28,43 145,10,154,27,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data374.png 90,8,95,27,28 96,9,110,28,46 112,9,122,27,27 124,8,137,27,58 138,9,148,28,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data375.png 89,8,98,28,42 99,8,114,28,33 116,12,134,27,61 135,8,148,27,6
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data376.png 91,8,103,27,2 104,9,118,27,10 120,8,133,27,52 135,7,146,27,29 149,8,162,28,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data377.png 89,8,104,24,19 104,7,115,24,22 116,6,126,24,36 126,12,136,24,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data378.png 90,9,98,27,47 100,9,114,28,25 115,9,129,28,33 130,9,146,28,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data379.png 89,7,106,24,21 105,12,113,25,54 112,7,123,24,18 123,7,132,24,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data38.png 172,24,193,54,53 193,23,212,54,41 213,23,235,45,59 233,14,256,46,2 255,14,286,46,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data380.png 90,9,103,28,22 105,9,119,28,12 120,13,132,32,53 133,8,142,27,1 142,8,156,28,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data381.png 90,8,104,27,30 103,8,118,27,6 118,13,129,27,38 132,8,143,27,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data382.png 90,12,100,23,17 100,7,111,24,51 111,7,126,24,10 126,8,145,24,56 146,8,156,24,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data383.png 90,12,99,24,43 99,8,109,24,2 110,6,121,24,24 122,7,141,24,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data384.png 89,7,105,24,55 104,12,115,24,59 115,7,126,24,9 127,7,143,28,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data385.png 90,13,102,32,35 104,8,119,27,12 120,8,134,27,33 135,8,150,27,44 149,9,164,27,6
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data386.png 89,6,101,24,24 101,12,117,24,61 119,7,133,28,45 133,7,148,24,15 148,7,158,24,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data387.png 89,13,101,27,48 103,8,117,27,3 117,13,128,27,48 130,8,143,27,3 145,7,148,28,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data388.png 90,7,104,24,60 105,7,115,24,23 115,7,125,24,31 127,7,140,24,25
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data389.png 89,7,109,24,56 110,6,119,24,24 120,8,130,24,26 131,12,141,28,50
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data39.png 172,13,192,44,26 192,25,214,55,50 214,14,245,47,21 244,15,268,46,6 268,25,286,46,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data390.png 90,13,101,27,34 102,8,113,28,20 114,8,127,27,30 129,13,140,27,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data391.png 90,12,98,24,54 97,8,108,24,31 109,7,118,24,51 118,12,126,24,54 126,7,136,24,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data392.png 89,12,100,28,41 100,8,111,24,58 112,8,120,24,16 122,7,133,24,29 134,7,143,24,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data393.png 90,7,99,24,31 100,12,116,24,61 118,12,126,24,34 126,11,137,24,43 137,12,154,25,61
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data394.png 89,7,105,24,10 105,7,115,24,52 116,6,126,24,23 126,6,142,24,19
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data395.png 88,7,100,24,4 102,12,111,24,48 112,12,122,24,59 122,7,137,24,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data396.png 89,7,100,24,51 101,12,111,24,59 111,7,124,24,32 126,7,133,23,27 134,8,150,24,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data397.png 90,8,104,28,25 105,8,126,28,7 128,8,140,27,11 141,8,152,27,32
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data398.png 90,13,102,27,59 102,8,117,28,6 116,7,131,28,15 131,8,146,29,15 147,13,158,28,38
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data399.png 91,6,99,24,27 100,6,110,24,52 110,6,126,24,60 126,12,137,28,41 137,6,151,24,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data4.png 170,17,187,48,42 192,15,218,47,19 222,15,246,47,55 252,16,278,48,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data40.png 174,16,204,52,56 211,17,237,53,12 242,26,263,61,41 267,17,293,53,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data400.png 90,8,107,32,45 107,8,116,27,47 116,8,130,28,6 130,9,143,28,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data401.png 89,9,98,28,42 99,8,115,27,8 117,13,129,33,53 130,8,144,28,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data402.png 88,8,97,33,5 97,8,118,28,7 119,13,132,28,38 132,13,144,32,53 147,7,159,27,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data403.png 90,8,105,28,10 106,8,119,29,6 119,8,134,28,25 135,8,146,27,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data404.png 89,6,101,24,24 101,7,111,24,51 111,6,122,24,24 122,12,134,25,59 132,7,149,24,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data405.png 90,8,102,27,22 104,8,120,27,60 122,13,134,32,41 136,7,147,27,23 150,8,164,28,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data406.png 90,8,103,28,52 105,8,121,27,56 124,9,138,28,12 139,8,152,28,11 153,13,165,28,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data407.png 89,12,102,27,17 103,8,111,27,42 111,8,126,27,6 126,8,141,28,60 141,10,152,28,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data408.png 89,6,99,25,16 100,12,111,29,50 111,6,121,25,52 122,6,137,24,19 137,7,154,25,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data409.png 89,12,100,29,41 100,12,111,24,38 111,7,119,24,47 119,7,132,23,10 132,12,143,24,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data41.png 173,16,212,53,7 217,17,245,53,56 250,16,281,61,45 282,26,302,53,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data410.png 89,6,96,25,28 96,8,102,24,57 103,12,113,29,35 114,7,123,24,27 124,7,135,24,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data411.png 89,6,103,24,11 100,6,108,29,5 109,6,120,24,9 121,12,132,29,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data412.png 90,12,99,23,14 99,12,110,24,48 109,7,123,24,33 124,7,138,24,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data413.png 91,7,102,28,23 103,8,117,28,21 118,8,132,28,3 133,13,144,28,39 146,13,159,28,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data414.png 89,13,102,28,43 102,8,124,27,7 124,14,137,28,17 138,8,153,28,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data415.png 90,8,107,27,56 107,8,122,27,6 121,8,134,28,31 136,8,148,28,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data416.png 90,12,106,24,61 105,6,112,29,5 113,7,124,25,22 124,6,137,24,32 137,7,147,24,62
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data417.png 91,9,102,27,27 103,8,121,28,60 122,8,127,28,28 127,8,141,28,55 142,13,155,27,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data418.png 89,7,105,24,8 105,6,114,24,16 115,7,130,24,55 131,7,143,24,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data419.png 89,13,100,28,0 101,8,113,27,20 115,8,125,28,27 127,13,139,28,43 139,8,154,28,6
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data42.png 174,16,203,53,60 208,16,235,53,3 235,17,261,54,6 261,15,283,54,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data420.png 89,6,102,24,6 103,6,108,24,49 110,11,126,25,61 126,11,137,25,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data421.png 89,9,97,24,57 98,7,105,24,27 107,12,115,24,54 114,6,124,24,23 125,7,141,25,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data422.png 89,8,98,28,47 101,8,113,27,55 115,13,128,27,38 130,8,144,28,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data423.png 90,7,105,24,21 105,12,120,24,13 120,7,135,24,10 135,7,150,24,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data424.png 89,7,105,24,19 104,9,111,24,57 111,6,118,24,49 118,7,134,24,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data425.png 90,8,104,28,30 104,8,118,27,21 119,8,133,28,19 134,8,148,28,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data426.png 90,13,101,27,17 104,8,118,28,12 119,12,130,28,0 131,8,145,28,3 144,8,158,27,51
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data427.png 90,8,107,32,45 107,8,122,28,30 123,6,135,27,29 137,13,148,28,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data428.png 89,12,100,28,41 100,12,111,29,41 111,5,117,25,28 117,7,133,24,33 132,8,140,24,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data429.png 88,7,101,24,4 101,7,111,24,2 112,12,123,24,40 123,6,137,24,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data43.png 170,16,199,52,21 198,27,220,53,43 222,17,246,53,31 252,16,275,53,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data430.png 90,13,102,28,14 104,9,114,28,32 115,13,125,27,54 125,9,137,28,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data431.png 89,6,101,24,9 101,12,112,24,40 112,7,128,24,55 127,6,138,24,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data432.png 90,8,104,27,9 106,8,117,28,32 118,8,133,28,56 136,7,148,28,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data433.png 90,9,105,28,12 106,7,114,27,47 115,7,128,28,29 130,7,135,28,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data434.png 89,7,103,24,6 103,12,113,24,59 113,7,128,24,25 128,5,138,24,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data435.png 90,13,101,27,0 101,6,116,28,12 116,8,132,28,8 135,7,149,27,3 149,13,160,27,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data436.png 90,7,99,24,51 100,11,109,25,0 109,11,119,28,41 120,6,135,23,60 135,7,147,24,29
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data437.png 89,8,96,25,57 96,11,107,29,41 106,7,117,24,18 118,7,133,25,21 131,6,138,28,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data438.png 90,6,102,27,23 105,8,119,27,55 120,7,134,27,15 135,7,150,28,33 151,8,163,27,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data439.png 90,8,98,27,42 100,7,112,28,29 113,9,129,28,8 130,9,140,28,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data44.png 170,13,209,46,56 209,15,229,45,52 229,14,258,46,10 260,14,279,47,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data440.png 90,7,107,28,56 108,8,123,28,25 124,8,136,27,22 139,8,153,28,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data441.png 90,7,95,28,49 95,8,109,28,9 112,8,123,27,11 124,13,137,28,59 138,8,150,28,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data442.png 92,7,98,24,27 100,6,111,24,18 111,12,122,24,40 121,12,133,25,39 133,11,143,25,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data443.png 89,7,104,24,8 105,5,110,24,49 110,7,130,24,56 130,12,138,24,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data444.png 89,12,100,29,35 102,8,109,24,27 109,7,125,24,3 126,6,135,24,36 135,7,153,24,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data445.png 89,7,104,24,3 104,12,113,23,48 113,5,124,24,23 124,5,130,24,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data446.png 89,6,104,24,19 104,12,120,24,13 119,7,130,24,31 130,7,137,24,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data447.png 90,7,103,27,24 103,7,118,28,25 118,8,131,28,22 133,8,145,28,52 145,8,160,28,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data448.png 90,8,107,28,56 108,8,122,28,21 122,13,133,27,39 136,7,151,28,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data449.png 89,12,100,24,59 101,11,111,24,39 111,12,121,24,14 121,6,132,24,24 132,7,141,25,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data45.png 169,24,192,45,40 193,22,214,44,40 214,13,225,46,28 226,24,244,46,34 244,23,266,54,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data450.png 91,8,105,28,37 105,8,121,28,44 120,8,127,32,5 127,8,143,27,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data451.png 90,12,99,24,34 99,12,109,29,41 110,6,117,24,47 117,7,131,24,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data452.png 91,6,99,24,27 100,6,110,25,2 111,7,126,25,37 126,6,140,25,46 140,6,146,24,28
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data453.png 90,13,102,33,41 104,8,118,27,33 120,12,139,28,61 138,8,154,28,44 154,12,166,28,43
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data454.png 89,6,101,24,4 102,12,111,24,40 111,12,121,24,54 121,12,131,24,39
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data455.png 89,12,99,24,14 99,7,109,25,16 110,12,126,25,13 125,11,135,25,14
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data456.png 89,7,106,24,33 107,7,113,24,27 115,7,131,24,19 131,7,145,24,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data457.png 90,7,99,25,58 100,12,109,24,0 109,12,120,24,39 118,5,125,29,5 126,12,135,24,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data458.png 90,7,106,28,56 108,7,123,28,33 122,8,137,27,6 135,7,145,28,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data459.png 89,11,100,29,50 99,8,107,24,57 107,7,120,25,11 119,7,130,24,52 130,7,145,25,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data46.png 171,17,189,53,42 193,15,215,53,29 217,16,247,53,15 249,17,275,52,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data460.png 91,8,105,28,12 106,8,119,28,21 119,13,131,28,40 133,13,145,32,50
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data461.png 90,8,105,24,8 105,7,115,25,58 115,11,126,28,35 127,7,134,24,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data462.png 89,13,101,33,35 104,8,119,28,37 121,7,125,28,47 125,8,138,28,16 139,7,153,28,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data463.png 90,8,104,28,9 106,8,120,28,19 121,9,132,27,27 135,8,149,27,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data464.png 89,6,100,24,23 101,12,110,24,48 110,11,120,24,43 119,6,130,25,22 130,6,138,24,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data465.png 89,12,107,28,13 107,13,119,27,14 120,8,133,27,22 135,8,146,28,18 148,12,165,28,13
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data466.png 90,9,95,27,28 96,7,107,27,36 110,9,121,27,20 122,9,138,28,8 140,8,152,28,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data467.png 89,7,104,24,19 104,11,116,24,59 115,8,130,24,44 130,11,140,24,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data468.png 89,7,105,24,12 104,11,115,24,38 115,7,131,23,33 131,7,141,24,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data469.png 89,11,106,23,61 107,12,124,24,61 124,7,135,24,51 135,5,145,24,23 145,7,161,24,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data47.png 173,16,196,52,52 200,17,227,53,30 229,27,252,53,59 254,26,272,52,54 273,17,299,53,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data470.png 90,6,98,25,1 97,6,109,25,24 108,7,124,24,15 124,7,136,24,11 136,11,144,24,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data471.png 89,7,104,24,3 104,6,114,24,23 113,12,131,24,61 131,7,147,24,37
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data472.png 89,7,99,24,16 100,8,110,23,16 111,7,131,24,7 131,6,143,25,24 143,13,154,29,53
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data473.png 88,12,106,24,13 106,7,115,23,27 115,8,123,24,57 123,7,138,24,55 137,6,152,23,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data474.png 89,5,96,24,28 95,12,107,29,50 107,8,121,24,44 121,7,137,24,3 136,7,156,24,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data475.png 90,13,102,28,59 103,7,115,28,29 115,7,123,32,5 124,8,139,28,37 140,9,153,27,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data476.png 89,7,109,24,56 109,8,115,24,57 115,11,126,24,40 126,6,136,25,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data477.png 90,13,102,31,50 103,8,115,28,4 115,8,129,28,21 128,8,143,27,10 145,7,150,28,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data478.png 89,7,105,25,12 104,12,115,24,39 116,7,125,24,58 126,7,141,29,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data479.png 89,7,104,24,37 105,7,114,24,16 116,6,121,24,28 121,12,132,29,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data48.png 173,15,199,46,25 200,13,210,45,28 211,14,241,46,21 241,14,263,45,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data480.png 91,8,103,27,46 104,8,119,28,15 121,8,133,27,51 135,13,147,28,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data481.png 90,12,102,27,59 103,8,116,29,9 118,7,134,29,60 135,13,148,28,59 148,9,162,26,9
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data482.png 89,6,108,24,56 108,6,116,25,28 115,6,129,24,6 128,6,140,24,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data483.png 89,6,101,24,4 101,11,112,29,35 112,11,123,29,53 123,6,136,24,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data484.png 89,7,104,24,12 103,6,110,29,5 111,12,128,24,61 128,6,138,24,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data485.png 89,8,103,27,6 103,7,119,27,60 122,8,132,27,32 131,12,145,28,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data486.png 90,8,103,27,11 104,8,115,27,32 117,7,128,27,36 130,8,142,28,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data487.png 90,8,103,28,58 103,8,112,28,42 113,13,124,28,48 125,13,138,28,14 140,8,150,27,27
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data488.png 89,8,99,27,57 98,7,113,27,8 117,8,128,27,4 128,13,140,27,17 141,8,154,28,58
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data489.png 91,8,102,28,16 104,8,117,27,20 117,13,129,33,53 131,8,145,28,25 147,8,161,28,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data49.png 173,14,202,46,21 200,23,221,46,59 221,23,240,55,41 243,14,271,46,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data490.png 90,7,100,24,18 100,11,111,29,50 111,6,123,24,24 123,7,142,24,7 142,12,151,24,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data491.png 89,8,104,28,44 104,8,119,27,33 120,7,132,28,29 135,13,144,28,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data492.png 88,7,102,24,30 103,12,113,24,40 113,6,120,23,28 120,7,130,23,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data493.png 90,14,101,27,17 103,8,116,28,9 119,8,132,28,55 134,8,148,28,33 149,8,162,28,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data494.png 89,7,99,24,31 100,7,110,24,58 111,12,122,29,53 122,6,138,24,10 137,6,148,24,23
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data495.png 89,6,105,24,60 105,10,112,24,54 112,11,123,24,59 123,12,134,28,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data496.png 89,7,104,24,55 105,12,115,29,41 115,6,130,24,19 130,8,146,24,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data497.png 90,7,98,23,16 100,12,116,24,61 117,6,128,24,36 128,7,143,25,37 144,7,159,24,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data498.png 89,12,99,25,14 100,7,110,25,51 109,7,123,24,32 121,5,129,29,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data499.png 90,7,106,28,8 108,8,121,28,10 125,8,135,27,2 138,7,150,28,2
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data5.png 171,13,198,42,25 199,21,213,42,0 213,13,238,41,11 238,13,269,42,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data50.png 175,14,196,52,24 198,14,220,53,36 225,17,251,53,30 252,16,280,52,6 280,16,307,52,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data500.png 89,6,97,25,1 97,7,108,24,24 108,8,124,24,44 123,11,134,28,53 134,6,145,25,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data51.png 172,28,195,52,17 199,16,222,52,11 227,17,255,54,12 255,15,272,52,42 276,15,299,52,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data52.png 170,16,212,52,7 212,17,244,53,44 242,14,260,53,1 254,15,271,62,5
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data53.png 171,17,189,53,57 191,17,213,52,20 214,26,238,53,38 241,15,264,53,24 264,15,292,53,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data54.png 174,16,195,53,4 197,26,220,52,14 223,17,251,53,25 253,15,276,53,24
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data55.png 172,12,193,46,22 194,23,215,55,35 215,14,231,46,42 230,24,251,46,40 251,24,271,55,41
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data56.png 174,26,193,52,43 199,16,225,53,3 226,17,252,52,21 253,18,283,53,56
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data57.png 172,25,195,52,39 202,17,226,52,46 228,14,245,53,1 243,15,269,53,21 269,25,292,53,40
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data58.png 174,16,201,53,55 205,16,234,61,45 237,27,269,53,13 269,16,296,52,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data59.png 171,24,192,54,41 193,12,204,44,49 206,24,221,46,0 221,13,246,45,46 249,22,269,47,59
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data6.png 172,13,189,41,2 188,11,202,51,5 203,13,228,42,20 228,22,246,41,48 245,11,265,41,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data60.png 171,24,193,46,40 194,25,213,47,17 214,24,234,45,40 235,25,252,46,59 254,15,273,46,16
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data61.png 174,16,197,53,11 200,17,226,53,30 229,17,253,53,52 255,18,296,53,7
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data62.png 172,27,205,52,13 205,15,233,52,15 237,17,263,53,10 266,27,298,53,13 300,17,324,52,26
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data63.png 174,16,197,52,18 200,26,223,53,14 226,16,250,53,2 252,16,274,54,32 277,16,298,52,18
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data64.png 174,26,194,53,34 194,17,220,52,10 226,25,242,52,54 244,17,266,54,22
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data65.png 171,23,192,54,50 189,12,204,55,5 207,15,224,47,51 226,14,244,48,22 246,13,278,48,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data66.png 171,13,202,46,19 200,24,221,54,50 221,14,244,45,20 245,15,273,46,44
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data67.png 172,26,195,62,35 202,15,230,53,12 230,15,247,53,1 246,15,272,53,44 274,25,297,61,35
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data68.png 172,25,192,55,35 193,13,203,45,49 206,11,216,46,49 218,11,228,46,49 230,14,261,46,33
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data69.png 173,16,202,54,25 203,15,225,53,36 227,15,256,52,33 259,16,284,52,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data7.png 174,15,198,48,37 205,15,229,47,37 234,15,257,48,51 262,25,281,47,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data70.png 171,14,209,46,56 210,12,231,47,24 231,15,249,45,51 249,24,272,55,50
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data71.png 174,16,204,52,56 208,17,223,52,47 229,17,251,52,11 254,17,279,53,21
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data72.png 174,16,181,53,28 183,16,210,53,33 214,16,239,53,10 244,18,269,52,30 271,20,289,53,57
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data73.png 172,23,187,47,0 189,23,210,55,35 211,14,229,46,2 229,25,250,46,59 252,25,270,46,48
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data74.png 173,26,194,52,43 197,26,218,52,34 218,16,245,52,33 248,16,277,53,60
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data75.png 174,19,196,52,58 200,17,225,54,9 231,17,258,53,19 259,17,286,52,25 288,26,308,53,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data76.png 171,24,192,47,39 194,23,213,46,39 213,13,235,46,24 237,15,264,46,44 264,15,293,46,10
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data77.png 173,13,191,45,29 193,24,212,54,53 213,13,240,47,25 242,13,261,46,36
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data78.png 171,25,191,45,48 191,15,210,47,2 212,14,233,46,9 234,13,254,46,36 255,23,271,46,0
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data79.png 175,16,197,53,2 202,16,229,54,12 234,17,255,53,4 256,16,286,54,8 291,16,316,52,46
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data8.png 172,22,189,42,43 191,21,205,41,0 208,13,227,41,58 225,13,240,41,47
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data80.png 172,25,192,46,40 192,15,211,46,22 214,13,234,47,23 236,24,255,56,35 255,16,286,45,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data81.png 175,14,195,53,36 201,14,224,53,36 228,16,251,53,58 253,15,271,53,1
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data82.png 173,17,198,53,30 202,25,224,54,14 228,16,250,53,16 256,17,283,53,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data83.png 172,17,199,54,30 202,15,230,54,25 231,15,255,53,51 259,17,281,53,52
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data84.png 169,15,185,63,5 190,16,210,53,32 206,16,222,62,5 225,16,256,62,45 261,16,281,53,20
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data85.png 175,17,197,52,2 201,25,221,53,43 224,16,249,53,26 253,17,280,53,3 280,17,308,53,15
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data86.png 172,13,192,46,29 193,24,214,46,39 214,24,245,46,13 243,14,261,45,31
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data87.png 170,16,201,53,15 202,18,228,52,9 232,27,254,53,39 260,17,285,52,55
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data88.png 175,18,196,53,22 200,17,216,52,47 219,27,242,53,17 241,18,269,53,6 270,14,277,53,49
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data89.png 172,16,189,53,42 192,16,219,53,3 222,17,244,52,20 248,27,264,52,54
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data9.png 171,16,188,47,42 190,16,217,48,15 222,16,248,48,12 251,24,271,48,34
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data90.png 171,16,199,52,6 198,26,219,53,43 224,17,246,52,26 251,16,272,52,4
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data91.png 173,14,200,46,8 202,15,220,46,52 222,15,251,55,45 249,14,275,46,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data92.png 171,11,193,46,36 193,24,224,47,61 225,14,256,46,33 256,14,286,54,45
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data93.png 171,13,193,46,24 193,25,222,47,13 222,15,242,47,51 244,24,263,46,17 263,14,288,47,11
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data94.png 173,17,196,54,58 200,15,227,53,44 230,17,254,53,20 256,26,279,62,41 278,17,297,52,42
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data95.png 173,15,202,53,8 205,16,222,54,42 225,15,248,53,26 253,16,282,53,12
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data96.png 172,16,191,45,31 193,13,204,46,49 206,14,235,56,45 237,15,262,47,25 263,15,291,46,8
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data97.png 172,24,191,45,48 191,24,213,46,40 211,15,242,47,33 243,14,265,46,11 267,14,291,47,30
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data98.png 175,25,210,53,61 215,17,237,53,4 237,27,261,53,59 264,16,291,52,12 295,16,321,53,3
+D:\Study\PythonPrj\pythonProject\Captcha_project\Detect/data/train/data99.png 171,16,201,53,15 203,17,228,53,46 232,15,255,53,20 257,15,279,53,29
